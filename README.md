@@ -34,7 +34,7 @@ using JSRunner;
 builder.Services.AddJSRunner();
 ```
 
-on your blazor component that you want to run js code add
+On your blazor component that you want to run js code add
 
 ```c#
 @using JSRunner;
