@@ -2,7 +2,7 @@
 
 ## Description
 
-Allows you to write js directally on your c# code
+Allows you to write JS directly on your c# code
 
 Example:
 
@@ -22,10 +22,9 @@ return i
 
 
 ## Installation
+Install this nuget package
 
-install this nuget package
-
-on your program.cs add
+On your program.cs add
 ```c#
 using JSRunner;
 ```
@@ -34,7 +33,7 @@ using JSRunner;
 builder.Services.AddJSRunner();
 ```
 
-On your blazor component that you want to run js code add
+In your blazor component that you want to run js code add
 
 ```c#
 @using JSRunner;
