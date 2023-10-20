@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSRunnerPlayground", "JSRunnerPlayground\JSRunnerPlayground.csproj", "{0246BDC5-6DB1-4DBF-8992-6347485FCC19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSRunner", "JSRunner\JSRunner.csproj", "{16B56E48-BD26-490D-A52B-E02638D6B4E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0246BDC5-6DB1-4DBF-8992-6347485FCC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0246BDC5-6DB1-4DBF-8992-6347485FCC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0246BDC5-6DB1-4DBF-8992-6347485FCC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0246BDC5-6DB1-4DBF-8992-6347485FCC19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B56E48-BD26-490D-A52B-E02638D6B4E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B56E48-BD26-490D-A52B-E02638D6B4E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B56E48-BD26-490D-A52B-E02638D6B4E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B56E48-BD26-490D-A52B-E02638D6B4E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {490EA35F-CB0D-4C1F-807E-AEB0CBE383B2}
+	EndGlobalSection
+EndGlobal

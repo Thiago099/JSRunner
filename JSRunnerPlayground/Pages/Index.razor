@@ -1,0 +1,28 @@
+﻿@page "/"
+@using JSRunner;
+@inject JS js;
+@code{
+    int i = 0;
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if(firstRender)
+        {
+
+        }
+    }
+    async Task Increment()
+    {
+        i = await js.Run<int>(@"
+        i++
+        return i
+        ",new{i});
+        await js.Run("if(i % 10 == 0) alert(i)",new{i});
+    }
+}
+
+<PageTitle>Index</PageTitle>
+
+<div class="container">
+    <button @onclick=Increment>Add</button>
+    @i
+</div>

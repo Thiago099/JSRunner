@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "6oz9oo84K7ROtFUKJLPRu8oSzXslfXmHTBZld5gyq0+ISXhKM7DAubrteQpJR0OImS32KNBscB2OBLYVVDk8OA==",
+  "success": true,
+  "projectFilePath": "E:\\Work\\projects\\JSRunnerPlayground\\JSRunner\\JSRunner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.9\\microsoft.aspnetcore.authorization.7.0.9.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.9\\microsoft.aspnetcore.components.7.0.9.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.9\\microsoft.aspnetcore.components.analyzers.7.0.9.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.9\\microsoft.aspnetcore.components.forms.7.0.9.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.9\\microsoft.aspnetcore.components.web.7.0.9.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.9\\microsoft.aspnetcore.metadata.7.0.9.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.jsinterop\\7.0.9\\microsoft.jsinterop.7.0.9.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

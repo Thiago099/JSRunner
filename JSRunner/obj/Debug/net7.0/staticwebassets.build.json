@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "LyMM7yJuZuNMe3cQ/qvMfd9jnLEVI3GIxyux3hGqZQY=",
+  "Source": "JSRunner",
+  "BasePath": "_content/JSRunner",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "JSRunner\\wwwroot",
+      "Source": "JSRunner",
+      "ContentRoot": "E:\\Work\\projects\\JSRunnerPlayground\\JSRunner\\wwwroot\\",
+      "BasePath": "_content/JSRunner",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Work\\projects\\JSRunnerPlayground\\JSRunner\\wwwroot\\main.js",
+      "SourceId": "JSRunner",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Work\\projects\\JSRunnerPlayground\\JSRunner\\wwwroot\\",
+      "BasePath": "_content/JSRunner",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
+    }
+  ]
+}

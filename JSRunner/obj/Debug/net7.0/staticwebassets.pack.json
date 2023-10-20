@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Work\\projects\\JSRunnerPlayground\\JSRunner\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.JSRunner.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.JSRunner.props",
+      "PackagePath": "build\\JSRunner.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.JSRunner.props",
+      "PackagePath": "buildMultiTargeting\\JSRunner.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.JSRunner.props",
+      "PackagePath": "buildTransitive\\JSRunner.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
