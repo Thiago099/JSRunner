@@ -10,11 +10,9 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/Thiago099/JSRunner</RepositoryUrl>
     <PackageTags>blazor;javascript</PackageTags>
-    <Description>Allows you to run javascript code directly on your blazor components</Description>
+    <Description>Allows you to run javascript code directly on your blazorcomponents</Description>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <FileVersion>1.0.0.1</FileVersion>
-    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
