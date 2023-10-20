@@ -23,7 +23,7 @@ return i
 
 ## Installation
 
-install this nutget package
+install this nuget package
 
 on your program.cs add
 ```c#
