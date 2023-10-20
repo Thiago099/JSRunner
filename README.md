@@ -29,7 +29,7 @@ on your program.cs add
 ```c#
 using JSRunner;
 ```
-...
+[...]
 ```c#
 builder.Services.AddJSRunner();
 ```
